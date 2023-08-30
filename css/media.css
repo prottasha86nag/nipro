@@ -1,0 +1,505 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header start*/
+.h_b{
+	margin-top: 28px;
+}
+
+/*slider start*/
+.s_content{
+	margin: 100px 0;
+	text-align: center;
+}
+.s_h1{
+    font-size: 25px;
+}
+.s_p{
+    margin: 30px 0;
+    word-spacing: 0;
+}   
+.s_btn{
+    padding: 10px 15px !important;
+}
+.s_btn i{
+    margin-left: 15px;
+}
+
+/*service start*/
+.service{
+    padding-bottom: 80px;
+}
+.ser_h1 {
+    margin-top: 25px !important;
+    font-size: 25px;
+}
+.ser_p1 {
+    margin: 40px 0 0;
+    text-align: center !important;
+    font-size: 14px;
+}
+.ser_item{
+	 margin-top: 60px;
+}
+/*about us start*/
+.ab_h1{
+    margin-top: 15px;
+}
+.about_us{
+    padding-bottom: 80px;
+}
+/*employee info start*/
+.info{
+    padding-bottom: 80px;
+}
+.sin_in{
+    margin-top: 50px;
+}
+.info_text{
+    padding: 20px 0 20px 20px;
+    background-color: #ffffff;
+}
+.info_h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+}
+.info_p{
+    margin-top: 20px;
+}
+/*pricing start*/
+.price{
+    margin: 24px 0;
+}
+/*template start*/
+.template{
+    padding: 20px 0;
+}
+.t_p{
+   font-size: 12px; 
+}
+.t_btn {
+    margin-top: 10px;
+    padding: 10px 5px !important;
+    font-size: 12px;
+}
+.t_btn i {
+    margin-left: 5px;
+}
+/*web slider start*/
+.web_slider{
+    padding: 60px 0;
+}
+.wb_h2{
+    margin-top: 10px;
+    font-size: 16px;
+}
+.wb_p1{
+    margin: 0;
+    font-size: 14px !important;
+}
+.wb_job{
+   margin: 5px 0;
+   font-size: 14px;  
+}
+.wb_p2{
+   margin-top: 15px; 
+   font-size: 14px;
+}
+.wb_b{
+    font-size: 14px;
+}
+/*contact start*/
+.c_h1 {
+    margin: -65px auto 0;
+    width: 140px;
+}
+.c_btn{
+    padding: 10px !important;
+}
+.c_btn i{
+    margin-left: 15px;
+}
+.c_f{
+    margin-top: 10px;
+}
+/*footer start*/
+.footer{
+    padding: 20px 0 10px;
+}
+.f_icon {
+    padding-bottom: 60px;
+}
+.f_a{
+  margin-top: 15px;
+}
+.f_p{
+    margin-top: 10px;
+    font-size: 6px;
+}
+.f_f{
+    padding: 0;
+}
+.f_f a{
+    font-size: 6px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+.h_b{
+	margin-top: 28px;
+}
+
+/*slider start*/
+.s_content{
+	margin: 150px 0;
+}
+.s_h1{
+    font-size: 45px;
+}
+.s_p{
+    word-spacing: 0;
+} 
+.s_btn{
+    padding: 15px 25px !important;
+}
+.s_btn i{
+    margin-left: 15px;
+}
+
+/*service start*/
+.service{
+    padding-bottom: 80px;
+}
+
+.ser_item{
+	 margin-top: 60px;
+}
+
+/*about us start*/
+.about_us{
+    padding-bottom: 80px;
+}
+.ab_h1{
+    margin-top: 15px;
+    font-size: 28px;
+}
+.ab_p{
+    margin: 20px 0;
+    font-size: 14px;
+}
+.a_b {
+    padding: 10px 20px !important;
+}
+/*employee info start*/
+.info{
+    padding-bottom: 80px;
+}
+.sin_in{
+    margin-top: 50px;
+}
+.info_text{
+    padding: 20px 0 20px 20px;
+    background-color: #ffffff;
+}
+.info_h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+}
+.info_p{
+    margin-top: 20px;
+}
+/*pricing start*/
+.price{
+    margin: 24px 0;
+}
+/*template start*/
+.t_p{
+   font-size: 16px; 
+}
+.t_btn {
+    padding: 15px 25px !important;
+}
+.t_btn i {
+    margin-left: 15px;
+}
+/*web slider start*/
+.web_slider{
+    padding: 80px 0;
+}
+.wb_h2{
+    font-size: 16px;
+}
+.wb_p1{
+    margin: 0;
+    font-size: 14px !important;
+}
+.wb_job{
+   margin: 2px 0;
+   font-size: 12px;  
+}
+.wb_p2{
+   margin-top: 4px; 
+   font-size: 11px;
+}
+.wb_b{
+    font-size: 14px;
+}
+/*contact start*/
+.c_h1 {
+    margin: -70px auto 0;
+    width: 150px;
+}
+.c_btn{
+    padding: 15px 20px !important;
+}
+.c_btn i{
+    margin-left: 15px;
+}
+.c_f{
+    margin-top: 10px;
+}
+/*footer start*/
+.footer{
+    padding: 20px 0 10px;
+}
+.f_icon {
+    padding-bottom: 60px;
+}
+.f_p{
+    margin-top: 10px
+    font-size: 8px;
+}
+.f_f{
+    padding: 0;
+}
+.f_f a{
+    font-size: 10px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.h_b{
+	margin-top: 28px;
+}
+
+/*slider start*/
+.s_content{
+	margin: 150px 0;
+}
+.s_h1{
+    font-size: 45px;
+}
+.s_p{
+    word-spacing: 0;
+} 
+.s_btn{
+    padding: 15px 25px !important;
+}
+/*about us start*/
+.ab_h1{
+    font-size: 20px;
+}
+.ab_p{
+    margin: 10px 0;
+    font-size: 10px;
+}
+.a_b {
+    padding: 10px 20px !important;
+}
+/*employee info start*/
+.info_text{
+    padding: 15px 0 15px 10px;
+    background-color: #ffffff;
+}
+.info_h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #333333;
+}
+.info_p{
+    margin-top: 20px;
+    font-size: 14px;
+}
+/*pricing start*/
+.price{
+    margin: 40px 0 ;
+}
+/*template start*/
+.t_p{
+   font-size: 16px; 
+}
+.t_btn {
+    padding: 15px 25px !important;
+}
+.t_btn i {
+    margin-left: 15px;
+}
+
+/*web slider start*/
+.web_slider{
+    padding: 80px 0;
+}
+.wb_h2{
+    font-size: 14px;
+}
+.wb_p1{
+    margin: 0;
+    font-size: 18px !important;
+}
+.wb_job{
+   font-size: 10px;  
+}
+.wb_p2{
+   margin-top: 10px; 
+   font-size: 10px;
+}
+.wb_b{
+    font-size: 14px;
+}
+/*contact strat*/
+.c_h1 {
+    margin: -70px auto 0;
+    width: 170px;
+}
+/*footer start*/
+.f_p{
+    font-size: 14px;
+}
+.f_f{
+    padding: 0;
+}
+.f_f a{
+    font-size: 14px;
+}
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*about us*/
+.ab_h1{
+    margin: 0;
+}
+.ab_p{
+    margin: 20px 0 25px !important;
+}
+.a_b{
+   padding: 12px 30px !important;
+}
+/*employee info start*/
+.info_text{
+    padding: 20px 0 20px 20px;
+    background-color: #ffffff;
+}
+.info_h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+}
+.info_p{
+    margin-top: 20px;
+}
+/*contact start*/
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+/*slider start*/
+.s_h1{
+    font-size: 50px;
+}
+/*employee info start*/
+.info_text{
+    padding: 20px 0 20px 20px;
+    background-color: #ffffff;
+}
+.info_h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+}
+.info_p{
+    margin-top: 20px;
+}
+/*web slider start*/
+.wb_h2{
+    font-size: 25px;
+}
+.wb_p1{
+    margin: 15px 0;
+    font-size: 18px !important;
+}
+.wb_job{
+   font-family: 18px;  
+}
+.wb_p2{
+   margin-top: 20px; 
+   font-size: 18px;
+}
+}
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+
+/*slider start*/
+.s_h1{
+    font-size: 60px;
+}
+/*about us*/
+.portfolio{
+    padding-bottom: 80px;
+}
+.ab_p{
+   font-size: 20px !important;
+}
+/*portfolio start*/
+.por_i{
+    margin-top: 80px;
+}
+/*employee info start*/
+.info_text{
+    padding: 20px 0 20px 20px;
+    background-color: #ffffff;
+}
+.info_h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+}
+.info_p{
+    margin-top: 20px;
+}
+/*web slider start*/
+.wb_h2{
+    font-size: 25px;
+}
+.wb_p1{
+    margin: 15px 0;
+    font-size: 18px !important;
+}
+.wb_job{
+   font-family: 18px;  
+}
+.wb_p2{
+   margin-top: 20px; 
+}
+/*contact start*/
+.c_h1{
+ width: 200px;   
+}
+}
